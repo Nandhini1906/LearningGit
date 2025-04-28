@@ -1,7 +1,4 @@
 test test i have added line 1 in local
-<<<<<<< HEAD
 Addded 123456 in feature
-=======
-Added new line for develop
->>>>>>> develop
+
 
